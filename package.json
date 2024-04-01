@@ -1,0 +1,21 @@
+{
+  "name": "guessnumbergamebyumemuqadus",
+  "version": "1.0.0",
+  "description": "A simple guess number game with Typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "guessnumbergamebyumemuqadus": "Guessnumber.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muqadus",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
