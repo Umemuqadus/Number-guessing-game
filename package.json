@@ -2,7 +2,7 @@
   "name": "guessnumbergamebyumemuqadus",
   "version": "1.0.0",
   "description": "A simple guess number game with Typescript, Node.js and Inquirer.",
-  "main": "index.js",
+  "main": "Guessnumber.js",
   "type": "module",
   "bin": {
     "guessnumbergamebyumemuqadus": "Guessnumber.js"
